@@ -1,1 +1,1 @@
-jenkins/inbound-agent:3248.v65ecb_254c298-2 registry.cn-shenzhen.aliyuncs.com/huzq_hub/jenkins/inbound-agent:3248.v65ecb_254c298-2
+jenkins/inbound-agent:3248.v65ecb_254c298-2 registry.cn-shenzhen.aliyuncs.com/huzq_hub/inbound-agent:3248.v65ecb_254c298-2

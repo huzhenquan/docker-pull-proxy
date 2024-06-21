@@ -1,1 +1,1 @@
-jenkins/inbound-agent:3248.v65ecb_254c298-2 registry.cn-shenzhen.aliyuncs.com/beimu/inbound-agent:3248.v65ecb_254c298-2
+jenkins/jenkins:alpine-jdk21 registry.cn-shenzhen.aliyuncs.com/beimu/jenkins:alpine-jdk21

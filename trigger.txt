@@ -1,1 +1,1 @@
-jenkins/jenkins:alpine-jdk21 registry.cn-shenzhen.aliyuncs.com/beimu/jenkins:alpine-jdk21
+jenkins/inbound-agent:alpine-jdk21 registry.cn-shenzhen.aliyuncs.com/beimu/inbound-agent:alpine-jdk21

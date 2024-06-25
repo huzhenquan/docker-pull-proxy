@@ -1,1 +1,1 @@
-jenkins/inbound-agent:alpine-jdk21 registry.cn-shenzhen.aliyuncs.com/beimu/inbound-agent:alpine-jdk21
+docker.io/calico/cni:v3.24.1 registry.cn-shenzhen.aliyuncs.com/beimu/cni:v3.24.1

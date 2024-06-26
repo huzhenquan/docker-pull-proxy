@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.24.1 registry.cn-shenzhen.aliyuncs.com/beimu/calico-kube-controllers:v3.24.1
+node:16.0.0-slim registry.cn-shenzhen.aliyuncs.com/beimu/node:16.0.0-slim

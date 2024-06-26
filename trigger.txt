@@ -1,1 +1,1 @@
-jenkins:slim-jdk21 registry.cn-shenzhen.aliyuncs.com/beimu/jenkins:slim-jdk21
+jenkins/jenkins:slim-jdk21 registry.cn-shenzhen.aliyuncs.com/beimu/jenkins:slim-jdk21

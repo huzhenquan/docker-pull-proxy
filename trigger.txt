@@ -1,1 +1,1 @@
-node:16.0.0-slim registry.cn-shenzhen.aliyuncs.com/beimu/node:16.0.0-slim
+jenkins:slim-jdk21 registry.cn-shenzhen.aliyuncs.com/beimu/jenkins:slim-jdk21

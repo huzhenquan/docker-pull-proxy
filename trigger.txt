@@ -1,1 +1,1 @@
-jenkins/jenkins:slim-jdk21 registry.cn-shenzhen.aliyuncs.com/beimu/jenkins:slim-jdk21
+jenkins/inbound-agent:slim-jdk21 registry.cn-shenzhen.aliyuncs.com/beimu/inbound-agent:slim-jdk21
